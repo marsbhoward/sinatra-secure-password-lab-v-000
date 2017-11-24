@@ -4,5 +4,5 @@ class UserTable < ActiveRecord::Migration
       t.string :username
       t.string :password_digest
   end
-  
+
 end
